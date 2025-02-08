@@ -1,6 +1,32 @@
-# Getting Started with Create React App
+# Shopping App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a shopping application built with React. It allows users to browse products, add them to a cart, and proceed to checkout.
+
+## Features
+
+- Browse products
+- Add products to cart
+- View cart
+- Checkout process
+
+## Getting Started
+
+To get a local copy up and running follow these simple steps.
+
+### Prerequisites
+
+Make sure you have Node.js and npm installed on your machine.
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/your-username/shopping-app.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
 
 ## Available Scripts
 
